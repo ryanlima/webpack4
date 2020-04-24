@@ -1,1 +1,12 @@
-body{background-color:#404}.botao{background-color:#19b3e6;color:#fff;font-size:1.8em}
+body {
+  background-color: #404;
+  background-image: url(7cc7a630624d20f7797cb4c8e93c09c1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh; }
+
+.botao {
+  background-color: #19b3e6;
+  color: #fff;
+  font-size: 1.8em; }
+
